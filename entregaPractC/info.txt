@@ -1,0 +1,4 @@
+El cd contiene : 
+ # fuentes : códigos fuente, ficheros de prueba y resultado de ficheros de prueba [formato UNIX].
+ # fuentesWin32 : códigos fuente, ficheros de prueba y resultado de ficheros de prueba [formato DOS].
+ # memoria : memoria en formato odt y pdf.

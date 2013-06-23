@@ -1,0 +1,4 @@
+El cd contiene : 
+	# codigos_fuente: codigos fuente en formato unix.
+	# codigos_fuente_win32: codigos fuente en formato w32(CRLF)
+	# memoria: guion de la memoria en formato .odt y .pdf
